@@ -1,1 +1,2 @@
 Kor_NLP_LSTM.h5 filter=lfs diff=lfs merge=lfs -text
+ft_model.bin filter=lfs diff=lfs merge=lfs -text
