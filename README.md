@@ -1,1 +1,7 @@
-# Distinction_Fword
+# **
+---
+
+
+---
+# 참고
+https://oak.chosun.ac.kr/bitstream/2020.oak/2036/2/%EB%8B%A8%EC%96%B4%20%EC%9E%84%EB%B2%A0%EB%94%A9%EA%B3%BC%20LSTM%EC%9D%84%20%ED%99%9C%EC%9A%A9%ED%95%9C%20%EB%B9%84%EC%86%8D%EC%96%B4%20%ED%8C%90%EB%B3%84%20%EB%B0%A9%EB%B2%95.pdf
