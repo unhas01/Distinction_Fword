@@ -4,7 +4,7 @@ YouTube에서 한국어로 구성된 댓글 중 욕설(Fword)이 포함된 댓�
 
 사용한 Network는 RNN의 알고리즘 중 하나인 LSTM을 사용합니다.   
 
-[LSTM 참고](https://wegonnamakeit.tistory.com/7)
+[LSTM 이론 참고](https://wegonnamakeit.tistory.com/7)
 
 ---
 ### 2. 학습 데이터 (data.csv)
