@@ -27,7 +27,7 @@ YouTube에서 한국어로 구성된 댓글 중 욕설(Fword)이 포함된 댓�
 -------
 ## 3. Korean_NLP_Distinguish_Fword.ipynb
 
-###### 작업은 Colab서 진행했습니다.
+###### 작업은 Colab서 진행했습니다. & 설명이 필요하다고 생각한 부분만 서술했습니다.
 - **전체 데이터를 Train / Test로 분리 (8:2)** 
 ```python
 sentence_train, sentence_test, label_train, label_test = train_test_split(data['Sentence'], data['label'], test_size = 0.2, shuffle = False)  
